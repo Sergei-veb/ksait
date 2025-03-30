@@ -1,0 +1,89 @@
+.p {
+    font-style: small-caps; background: rgb(183, 159, 2); padding-left: 18px;
+}
+
+.red {
+    background-color: rgb(208, 189, 15);
+}
+
+.h1 {
+    color: red; text-align: right;
+}
+
+.t9 {
+    background-color: rgb(10, 204, 218);
+    width: 400px;
+    height: 100px;
+    margin-left: 40%;
+}
+.t9c {
+    align-items: center;
+    color: rgb(12, 201, 21);
+    text-shadow: 2px 1px 1px rgba(0, 0, 0.5);
+    font-size: 45px;
+    margin: 0;
+}
+
+.t9x {
+    margin: 0;
+    font-size: 25px;
+    color: rgb(49, 224, 10)
+}
+
+.x6 {
+    width: 530px;
+    height: 370px;
+    background-color: #00feff;
+    margin-left: 37%;
+}
+
+.y9y {
+    font-size: 18px;
+}
+
+.y9y::first-letter {
+    margin: 0;
+    color: green;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 1;
+    float: left;
+}
+
+.w6 {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+}
+
+.w6x {
+    font-size: 14px;
+    font-family: 'Monotype Corsiva', cursive;
+}
+ 
+.d7img {
+    width: 400px;
+    height: 200px;
+    border: 10px solid rgb(32, 83, 36);
+}
+
+.ta {
+    border: 10px solid rgb(44, 27, 1);
+    border-collapse: collapse; 
+    width: 100%; 
+}
+
+.x {
+    background-color: rgb(16, 188, 215); 
+    color: rgb(250, 8, 157); 
+    border: 3px rgb(11, 178, 117) dashed; 
+    padding: 10px;
+}
+
+.b {
+    background-color: rgba(182, 28, 1, 0.46); 
+    border: 2px solid rgb(30, 9, 227); 
+    padding: 10px; 
+}
+
